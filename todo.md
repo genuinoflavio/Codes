@@ -1,2 +1,0 @@
-- melhorar visualização
-- Aplicar outros modelos 
